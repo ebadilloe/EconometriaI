@@ -5,7 +5,7 @@ Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 - [Programa del curso](https://ebadilloe.github.io/EconometriaI/SYLLABUS.xlsx)<br>
 
-- [+ sobre el programa del curso](https://ebadilloe.github.io/EconometriaI/Programa.doc)<br>
+- [+ sobre el programa del curso](https://ebadilloe.github.io/EconometriaI/Instrucciones.doc)<br>
 
 - [Concertación de evaluación](https://ebadilloe.github.io/EconometriaI/Concertacionevaluacion.docx)<br>
 
@@ -14,7 +14,8 @@ Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 Ejemplo uso de datos:
 
-- [Código en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo1.R)<br>
+- [Código1 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo1.R)<br>
+- [Código2 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo2.R)<br>
 - [Data - wage1](https://ebadilloe.github.io/EconometriaI/wage1.xlsx)<br>
 
 <br>
