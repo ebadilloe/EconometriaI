@@ -20,7 +20,16 @@ Ejemplo uso de datos:
 
 <br>
 
+Repaso estadística:
+
+- [Parte 1](https://ebadilloe.github.io/EconometriaI/RepasoEstadistica_1.pdf)<br>
+
+- [Parte 2](https://ebadilloe.github.io/EconometriaI/RepasoEstadistica_2.pdf)<br>
 
 
+Introducción:
 
+- [Introducción a la Econometría](https://ebadilloe.github.io/EconometriaI/IntroducciónEconometria.pdf)<br>
+
+- [Tipos de datos y variables](https://ebadilloe.github.io/EconometriaI/DatosyVariables.pdf)<br>
 
