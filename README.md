@@ -17,6 +17,7 @@ Ejemplo uso de datos:
 - [Código1 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo1.R)<br>
 - [Código2 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo2.R)<br>
 - [Data - wage1](https://ebadilloe.github.io/EconometriaI/wage1.xlsx)<br>
+- [Data - prminwge](https://ebadilloe.github.io/EconometriaI/PRMINWGE.DTA)<br>
 
 <br>
 
