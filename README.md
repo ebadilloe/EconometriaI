@@ -11,6 +11,7 @@ Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 - [Horario atención a estudiantes](https://ebadilloe.github.io/EconometriaI/Horarioatencion.docx)<br>
 
+<br>
 
 Ejemplo uso de datos:
 
@@ -28,12 +29,15 @@ Repaso estadística:
 
 - [Parte 2](https://ebadilloe.github.io/EconometriaI/RepasoEstadistica_2.pdf)<br>
 
+<br>
 
 Introducción:
 
 - [Introducción a la Econometría](https://ebadilloe.github.io/EconometriaI/IntroducciónEconometria.pdf)<br>
 
 - [Tipos de datos y variables](https://ebadilloe.github.io/EconometriaI/DatosyVariables.pdf)<br>
+
+<br>
 
 RLS:
 
