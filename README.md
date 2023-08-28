@@ -35,3 +35,7 @@ Introducción:
 
 - [Tipos de datos y variables](https://ebadilloe.github.io/EconometriaI/DatosyVariables.pdf)<br>
 
+RLS:
+
+- [Planteamiento del modelo](https://ebadilloe.github.io/EconometriaI/RLS_planteamiento.pdf)<br>
+
