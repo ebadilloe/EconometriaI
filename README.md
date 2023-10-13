@@ -16,11 +16,17 @@ Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 Ejemplo uso de datos:
 
 - [Código1 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo1.R)<br>
+
 - [Código2 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo2.R)<br>
+
 - [Data - wage1](https://ebadilloe.github.io/EconometriaI/wage1.xlsx)<br>
+
 - [Data - prminwge](https://ebadilloe.github.io/EconometriaI/PRMINWGE.DTA)<br>
+
 - [Código3 en R - Manejo de datos](https://ebadilloe.github.io/EconometriaI/Unidad2.R)<br>
+
 - [Actividad-SURA](https://ebadilloe.github.io/EconometriaI/EBadillo_ActividadSURA.docx)<br>
+
 - [Data - bd_house](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
 <br>
 
