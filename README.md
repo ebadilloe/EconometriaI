@@ -4,36 +4,25 @@ En este repositorio se encuentra el material del curso de Econometría I (Unaula
 Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 - [Programa del curso](https://ebadilloe.github.io/EconometriaI/SYLLABUS.xlsx)<br>
-
 - [+ sobre el programa del curso](https://ebadilloe.github.io/EconometriaI/Instrucciones.doc)<br>
-
 - [Concertación de evaluación](https://ebadilloe.github.io/EconometriaI/Concertacionevaluacion.docx)<br>
-
 - [Horario atención a estudiantes](https://ebadilloe.github.io/EconometriaI/Horarioatencion.docx)<br>
-
 <br>
 
 Ejemplo uso de datos:
 
 - [Código1 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo1.R)<br>
-
 - [Código2 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo2.R)<br>
-
 - [Data - wage1](https://ebadilloe.github.io/EconometriaI/wage1.xlsx)<br>
-
 - [Data - prminwge](https://ebadilloe.github.io/EconometriaI/PRMINWGE.DTA)<br>
-
 - [Código3 en R - Manejo de datos](https://ebadilloe.github.io/EconometriaI/Unidad2.R)<br>
-
 - [Actividad-SURA](https://ebadilloe.github.io/EconometriaI/EBadillo_ActividadSURA.docx)<br>
-
 - [Data - bd_house](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
 <br>
 
 Repaso estadística:
 
 - [Parte 1](https://ebadilloe.github.io/EconometriaI/RepasoEstadistica_1.pdf)<br>
-
 - [Parte 2](https://ebadilloe.github.io/EconometriaI/RepasoEstadistica_2.pdf)<br>
 
 <br>
@@ -41,7 +30,6 @@ Repaso estadística:
 Introducción:
 
 - [Introducción a la Econometría](https://ebadilloe.github.io/EconometriaI/IntroducciónEconometria.pdf)<br>
-
 - [Tipos de datos y variables](https://ebadilloe.github.io/EconometriaI/DatosyVariables.pdf)<br>
 
 <br>
