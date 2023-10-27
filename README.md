@@ -45,4 +45,5 @@ RLS:
 
 RLM:
 
-- [Planteamiento del modelo](https://ebadilloe.github.io/EconometriaI/RLM_planteamiento.pdf)<br>
+- [Planteamiento, supuestos, estimación y propiedades](https://ebadilloe.github.io/EconometriaI/RLM_planteamiento.pdf)<br>
+- [Inferencia](https://ebadilloe.github.io/EconometriaI/RLM_inferencia.pdf)<br>
