@@ -18,6 +18,9 @@ Ejemplo uso de datos:
 - [Código3 en R - Manejo de datos](https://ebadilloe.github.io/EconometriaI/Unidad2.R)<br>
 - [Actividad-SURA](https://ebadilloe.github.io/EconometriaI/EBadillo_ActividadSURA.docx)<br>
 - [Data - bd_house](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
+- [Código4 en R - Variables categóricas](https://ebadilloe.github.io/EconometriaI/Dummies.R)<br>
+- [Data - WAGE1.csv](https://ebadilloe.github.io/EconometriaI/WAGE1.csv)<br>
+
 <br>
 
 Repaso estadística:
@@ -47,3 +50,5 @@ RLM:
 
 - [Planteamiento, supuestos, estimación y propiedades](https://ebadilloe.github.io/EconometriaI/RLM_planteamiento.pdf)<br>
 - [Inferencia](https://ebadilloe.github.io/EconometriaI/RLM_inferencia.pdf)<br>
+
+
