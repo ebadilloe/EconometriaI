@@ -4,7 +4,7 @@ En este repositorio se encuentra el material del curso de Econometría I (Unaula
 Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 - [Programa del curso](https://ebadilloe.github.io/EconometriaI/SYLLABUS.xlsx)<br>
-- [+ sobre el programa del curso](https://ebadilloe.github.io/EconometriaI/Instrucciones.doc)<br>
+- [+ sobre el programa del curso](https://ebadilloe.github.io/EconometriaI/Instr ucciones.doc)<br>
 - [Concertación de evaluación](https://ebadilloe.github.io/EconometriaI/Concertacionevaluacion.docx)<br>
 - [Horario atención a estudiantes](https://ebadilloe.github.io/EconometriaI/Horarioatencion.docx)<br>
 <br>
