@@ -20,6 +20,7 @@ Ejemplo uso de datos:
 - [Data - bd_house](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
 - [Código4 en R - Variables categóricas](https://ebadilloe.github.io/EconometriaI/Dummies.R)<br>
 - [Data - WAGE1.csv](https://ebadilloe.github.io/EconometriaI/WAGE1.csv)<br>
+- [Data - caschool](https://ebadilloe.github.io/EconometriaI/caschool.xls)<br>
 
 <br>
 
