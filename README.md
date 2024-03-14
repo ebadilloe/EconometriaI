@@ -42,7 +42,7 @@ RLS:
 
 - [Planteamiento del modelo](https://ebadilloe.github.io/EconometriaI/RLS_planteamiento.pdf)<br>
 - [Propiedades de los estimadores](https://ebadilloe.github.io/EconometriaI/RLS_propiedades.pdf)<br>
-- [Recuerde](https://ebadilloe.github.io/EconometriaI/RLS_repaso.pdf)<br>
+- [R-cuadrado](https://ebadilloe.github.io/EconometriaI/Rcuadrado.pdf)<br>
 - [Pruebas de hipótesis e IC](https://ebadilloe.github.io/EconometriaI/RLS_Inferencia.pdf)<br>
 
 <br>
