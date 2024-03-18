@@ -44,6 +44,7 @@ RLS:
 - [Propiedades de los estimadores](https://ebadilloe.github.io/EconometriaI/RLS_propiedades.pdf)<br>
 - [R-cuadrado](https://ebadilloe.github.io/EconometriaI/Rcuadrado.pdf)<br>
 - [Pruebas de hipótesis e IC](https://ebadilloe.github.io/EconometriaI/RLS_Inferencia.pdf)<br>
+- [Interpretación](https://ebadilloe.github.io/EconometriaI/Interpretacion.pdf)<br>
 
 <br>
 
@@ -52,4 +53,11 @@ RLM:
 - [Planteamiento, supuestos, estimación y propiedades](https://ebadilloe.github.io/EconometriaI/RLM_planteamiento.pdf)<br>
 - [Inferencia](https://ebadilloe.github.io/EconometriaI/RLM_inferencia.pdf)<br>
 
+<br>
 
+Talleres:
+
+- [Taller#1](https://ebadilloe.github.io/EconometriaI/Taller1.pdf)<br>
+- [Data Taller#1](https://ebadilloe.github.io/EconometriaI/DataTaller1.raw)<br>
+- [DescriptionData Taller#1](https://ebadilloe.github.io/EconometriaI/WAGE2_description.txt)<br>
+- [Paper Taller#1](https://ebadilloe.github.io/EconometriaI/PaperTaller1.pdf)<br>
