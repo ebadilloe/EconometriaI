@@ -18,11 +18,11 @@ Ejemplo uso de datos:
 - [Código3 en R - Manejo de datos](https://ebadilloe.github.io/EconometriaI/Unidad2.R)<br>
 - [Actividad-SURA](https://ebadilloe.github.io/EconometriaI/EBadillo_ActividadSURA.docx)<br>
 - [Data - bd_house](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
-- [Código4 en R - Variables categóricas](https://ebadilloe.github.io/EconometriaI/Varscategorica.R)<br>
 - [Data - WAGE1.csv](https://ebadilloe.github.io/EconometriaI/WAGE1.csv)<br>
 - [Data - caschool](https://ebadilloe.github.io/EconometriaI/caschool.xls)<br>
 - [Data - Quiz2](https://ebadilloe.github.io/EconometriaI/data.txt)<br>
 - [Data - WAGE1.dta](https://ebadilloe.github.io/EconometriaI/WAGE1.dta)<br>
+- [Código4 en R - Variables categóricas](https://ebadilloe.github.io/EconometriaI/Varscategorica.R)<br>
 
 <br>
 
