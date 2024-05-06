@@ -22,6 +22,7 @@ Ejemplo uso de datos:
 - [Data - WAGE1.csv](https://ebadilloe.github.io/EconometriaI/WAGE1.csv)<br>
 - [Data - caschool](https://ebadilloe.github.io/EconometriaI/caschool.xls)<br>
 - [Data - Quiz2](https://ebadilloe.github.io/EconometriaI/data.txt)<br>
+- [Data - WAGE1.dta](https://ebadilloe.github.io/EconometriaI/WAGE1.dta)<br>
 
 <br>
 
@@ -53,6 +54,8 @@ RLM:
 
 - [Planteamiento, supuestos, estimación y propiedades](https://ebadilloe.github.io/EconometriaI/RLM_planteamiento.pdf)<br>
 - [Inferencia](https://ebadilloe.github.io/EconometriaI/RLM_inferencia.pdf)<br>
+- [Variables categóricas](https://ebadilloe.github.io/EconometriaI/RLM_varcategoricas.pdf)<br>
+
 
 <br>
 
