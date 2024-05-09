@@ -21,7 +21,7 @@ Ejemplo uso de datos:
 - [Data - WAGE1.csv](https://ebadilloe.github.io/EconometriaI/WAGE1.csv)<br>
 - [Data - caschool](https://ebadilloe.github.io/EconometriaI/caschool.xls)<br>
 - [Data - Quiz2](https://ebadilloe.github.io/EconometriaI/data.txt)<br>
-- [Data - WAGE1.dta](https://ebadilloe.github.io/EconometriaI/WAGE1.dta)<br>
+- [Data - WAGE1.dta](https://ebadilloe.github.io/EconometriaI/WAGE1.DTA)<br>
 - [Código4 en R - Variables categóricas](https://ebadilloe.github.io/EconometriaI/Varscategorica.R)<br>
 
 <br>
@@ -65,3 +65,4 @@ Talleres:
 - [Data Taller#1](https://ebadilloe.github.io/EconometriaI/DataTaller1.raw)<br>
 - [DescriptionData Taller#1](https://ebadilloe.github.io/EconometriaI/WAGE2_description.txt)<br>
 - [Paper Taller#1](https://ebadilloe.github.io/EconometriaI/PaperTaller1.pdf)<br>
+- [Taller#2](https://ebadilloe.github.io/EconometriaI/Tallervarscategorica.pdf)<br>
