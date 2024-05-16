@@ -66,4 +66,4 @@ Talleres:
 - [DescriptionData Taller#1](https://ebadilloe.github.io/EconometriaI/WAGE2_description.txt)<br>
 - [Paper Taller#1](https://ebadilloe.github.io/EconometriaI/PaperTaller1.pdf)<br>
 - [Taller#2](https://ebadilloe.github.io/EconometriaI/Tallervarscategorica.pdf)<br>
-- [Taller#3](https://ebadilloe.github.io/EconometriaI/Taller_RLM.pdf)<br>
+- [Taller#3](https://ebadilloe.github.io/EconometriaI/TallerRLM.pdf)<br>
