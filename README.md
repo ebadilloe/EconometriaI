@@ -16,7 +16,8 @@ Ejemplo uso de datos:
 - [Data - wage1.xlsx](https://ebadilloe.github.io/EconometriaI/wage1.xlsx)<br>
 - [Data - prminwge.dta](https://ebadilloe.github.io/EconometriaI/PRMINWGE.DTA)<br>
 - [Código3 en R - Manejo de datos](https://ebadilloe.github.io/EconometriaI/Unidad2.R)<br>
-- [Actividad-SURA](https://ebadilloe.github.io/EconometriaI/EBadillo_ActividadSURA.docx)<br>
+- [Código en R - EjercicioSURA](https://ebadilloe.github.io/EconometriaI/EjercicioSURA.R)<br>
+- [Enunciado - EjercicioSURA](https://ebadilloe.github.io/EconometriaI/EjercicioSURA.docx)<br>
 - [Data - bd_house.csv](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
 - [Data - WAGE1.csv](https://ebadilloe.github.io/EconometriaI/WAGE1.csv)<br>
 - [Data - caschool.xls](https://ebadilloe.github.io/EconometriaI/caschool.xls)<br>
