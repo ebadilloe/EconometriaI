@@ -3,8 +3,8 @@ En este repositorio se encuentra el material del curso de Econometría I (Unaula
 
 Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
-- [Programa del curso](https://ebadilloe.github.io/EconometriaI/SYLLABUS.xlsx)<br>
-- [+ sobre el programa del curso](https://ebadilloe.github.io/EconometriaI/Instrucciones.doc)<br>
+- [Syllabus](https://ebadilloe.github.io/EconometriaI/SYLLABUS.xlsx)<br>
+- [Programa del curso (instrucciones)](https://ebadilloe.github.io/EconometriaI/Instrucciones.doc)<br>
 - [Concertación de evaluación](https://ebadilloe.github.io/EconometriaI/Concertacionevaluacion.docx)<br>
 - [Horario atención a estudiantes](https://ebadilloe.github.io/EconometriaI/Horarioatencion.docx)<br>
 <br>
@@ -13,14 +13,14 @@ Ejemplo uso de datos:
 
 - [Código1 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo1.R)<br>
 - [Código2 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo2.R)<br>
-- [Data - wage1](https://ebadilloe.github.io/EconometriaI/wage1.xlsx)<br>
-- [Data - prminwge](https://ebadilloe.github.io/EconometriaI/PRMINWGE.DTA)<br>
+- [Data - wage1.xlsx](https://ebadilloe.github.io/EconometriaI/wage1.xlsx)<br>
+- [Data - prminwge.dta](https://ebadilloe.github.io/EconometriaI/PRMINWGE.DTA)<br>
 - [Código3 en R - Manejo de datos](https://ebadilloe.github.io/EconometriaI/Unidad2.R)<br>
 - [Actividad-SURA](https://ebadilloe.github.io/EconometriaI/EBadillo_ActividadSURA.docx)<br>
-- [Data - bd_house](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
+- [Data - bd_house.csv](https://ebadilloe.github.io/EconometriaI/bd_house.csv)<br>
 - [Data - WAGE1.csv](https://ebadilloe.github.io/EconometriaI/WAGE1.csv)<br>
-- [Data - caschool](https://ebadilloe.github.io/EconometriaI/caschool.xls)<br>
-- [Data - Quiz2](https://ebadilloe.github.io/EconometriaI/data.txt)<br>
+- [Data - caschool.xls](https://ebadilloe.github.io/EconometriaI/caschool.xls)<br>
+- [Data - Quiz2(data.txt)](https://ebadilloe.github.io/EconometriaI/data.txt)<br>
 - [Data - WAGE1.dta](https://ebadilloe.github.io/EconometriaI/WAGE1.DTA)<br>
 - [Código4 en R - Variables categóricas](https://ebadilloe.github.io/EconometriaI/Varscategorica.R)<br>
 
