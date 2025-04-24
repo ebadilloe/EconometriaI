@@ -58,7 +58,6 @@ RLM:
 - [Inferencia](https://ebadilloe.github.io/EconometriaI/RLM_inferencia.pdf)<br>
 - [Variables categóricas](https://ebadilloe.github.io/EconometriaI/RLM_varcategoricas.pdf)<br>
 
-
 <br>
 
 Talleres:
