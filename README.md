@@ -11,6 +11,7 @@ Profesora: [**Erika R. Badillo**](https://ebadilloe.github.io)
 
 Ejemplo uso de datos:
 
+- [Código en R - 2025](https://ebadilloe.github.io/EconometriaI/clase #1.R)<br>
 - [Código1 en R - Estimadores](https://ebadilloe.github.io/EconometriaI/EstimadoresR.docx)<br>
 - [Código1 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo1.R)<br>
 - [Código2 en R - Introduction](https://ebadilloe.github.io/EconometriaI/Ejemplo2.R)<br>
